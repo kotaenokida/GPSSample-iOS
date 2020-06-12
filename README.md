@@ -1,9 +1,12 @@
 # GPSSample
+
 A sample project demoing GPS placement capability.
 
+## Instructions
 
-In order for this sample project to work, you will need to download the KudanAR framework from the Kudan website. Then simply drop the framework into the root project directory and run the Xcode project.
+- Download the Kudan AR iOS SDK here: [https://www.xlsoft.com/en/products/kudan/download.html](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS)
+- Drop the `KudanAR.framework` into your project
+- Disable Bitcode, go to the Build Settings tab of your workspace, scroll down to Build Options, and set Enable Bitcode to No.
+- Run the XCode project
 
-If you have any feedback about our SDK or provided sample source code, please get in touch with us at [our support site](https://www.kudan.eu/support/). 
-
-Thanks!
+If you have any feedback about our SDK or provided sample source code, please get in touch with us at [our support site](https://www.xlsoft.com/doc/kudan/getting-started/?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS).
